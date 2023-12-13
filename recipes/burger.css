@@ -1,0 +1,23 @@
+/* Apply Font Color to Title */
+
+div {
+    color: brown;
+    background-color: goldenrod;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: 40px;
+    background-color: goldenrod;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkred;
+    background-color: burlywood;
+
+}

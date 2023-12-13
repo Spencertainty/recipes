@@ -1,0 +1,22 @@
+/* Apply Font Color to Title */
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    background-color: goldenrod;
+}
+
+.center-picture {
+    text-align: center;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: brown;
+}
