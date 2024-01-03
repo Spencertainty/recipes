@@ -4,6 +4,8 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: brown;
     background-color: goldenrod;
+    text-align: center;
+
 }
 
 .center-picture {
@@ -21,4 +23,5 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
     color: brown;
+    text-align: center;
 }
